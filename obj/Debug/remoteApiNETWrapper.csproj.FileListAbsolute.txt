@@ -1,0 +1,5 @@
+E:\Program Files (x86)\V-REP3\V-REP_PRO_EDU\programming\remoteApiSharedLib\remoteApiNETWrapper.dll
+E:\Program Files (x86)\V-REP3\V-REP_PRO_EDU\programming\remoteApiSharedLib\remoteApiNETWrapper.pdb
+E:\GitHub\remoteApiNETWrapper\obj\Debug\remoteApiNETWrapper.csprojResolveAssemblyReference.cache
+E:\GitHub\remoteApiNETWrapper\obj\Debug\remoteApiNETWrapper.dll
+E:\GitHub\remoteApiNETWrapper\obj\Debug\remoteApiNETWrapper.pdb
